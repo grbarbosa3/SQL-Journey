@@ -13,3 +13,9 @@ Welcome to my **SQL Journal Notebook**, a magical record of exercises and notes 
    
 3. Open the notebook:
     `jupyter notebook fgv_sql_notes.ipynb`
+
+
+🌟 Why this repo?
+
+This is part of my learning path in Data & SQL engineering.
+Keeping a public notebook is a way to track my evolution, share knowledge, and (why not?) make SQL feel a bit more epic. 🧙‍♂️🐉
