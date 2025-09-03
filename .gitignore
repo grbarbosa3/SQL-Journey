@@ -1,0 +1,31 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment/config files
+.env
+*.env
+*.venv
+venv/
+ENV/
+
+# Ignore system/OS files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore SQLite temporary files
+*.sqlite-shm
+*.sqlite-wal
+
+# Keep the main database but ignore backups
+*.db-journal
