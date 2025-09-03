@@ -2,6 +2,10 @@
 
 Welcome to my **SQL Journal Notebook**, a magical record of exercises and notes from the FGV SQL course. 🐲
 
+Click on the fg_sql_notes.ipynb to open the preview of the notebook OR
+
+you can have replicate it using these steps 👇🏻
+
 ## ⚡ How to Run
 1. Clone this repository:
    ```bash
