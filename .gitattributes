@@ -1,4 +1,5 @@
-*.ipynb linguist-language=JupyterNotebook
+*.ipynb linguist-language="Jupyter Notebook"
 *.db linguist-language=SQL
+
 
 
