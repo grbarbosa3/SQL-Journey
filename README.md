@@ -1,3 +1,6 @@
+<img width="955" height="643" alt="image" src="https://github.com/user-attachments/assets/ec04e7f6-c767-4afc-8b03-fd3f28963e08" />
+
+
 #  SQL DEFINITIVE JOURNAL 📖🧙🏻
 
 Welcome to my **SQL Journal Notebook**, a magical record of exercises and notes from the FGV SQL course. 🐲
